@@ -1,0 +1,27 @@
+[
+ {
+
+      "api-key" : "CREATE-USER-REQRES",
+      "url" : "https://reqres.in/api/users",
+      "method":"POST",
+      "pathParams":[],
+      "queryParams":[],
+      "payload":"DataVO"
+  },
+  {
+    "api-key" : "GET-ALL-USERS-REQRES",
+    "url" : "https://reqres.in/api/users",
+    "method":"GET",
+    "pathParams":[],
+    "queryParams":[],
+    "payload":""
+  },
+  {
+  "api-key" : "GET-USER-ID-REQRES",
+  "url" : "https://reqres.in/api/users",
+  "method":"GET",
+  "pathParams":["id"],
+  "queryParams":["id"],
+  "payload":""
+}
+]
